@@ -1,0 +1,8 @@
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\bin\WAWSUsingAzureStorage.zip
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\bin\WAWSUsingAzureStorage.dll
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\bin\WAWSUsingAzureStorage.pdb
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\obj\Release\WAWSUsingAzureStorage.dll
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\obj\Release\WAWSUsingAzureStorage.pdb
+E:\TestCode\WAWSUsingAzureStorage\WAWSUsingAzureStorage\obj\Release\WAWSUsingAzureStorage.csprojResolveAssemblyReference.cache
